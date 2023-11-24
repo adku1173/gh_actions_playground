@@ -18,6 +18,7 @@ authors = [
 
 dependencies = [
 	'acoular>=23.11',
+    'sphinx'
 ]
 maintainers = [
     {name = "Adam Kujawski", email = "adam.kujawski@tu-berlin.de"},
