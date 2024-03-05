@@ -5,7 +5,6 @@ name: Build docs
 
 on: [workflow_dispatch, pull_request] # only on manual trigger
 
-  
 permissions:
   contents: write
 
