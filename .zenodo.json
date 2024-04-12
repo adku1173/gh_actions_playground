@@ -49,5 +49,5 @@
             "type": "Researcher"
         }
     ],
-    "references": "Ennes Sarradj, Gert Herold, A Python framework for microphone array data processing, Applied Acoustics, Volume 116, 2017, Pages 50-58",
+    "references": ["Ennes Sarradj, Gert Herold, A Python framework for microphone array data processing, Applied Acoustics, Volume 116, 2017, Pages 50-58, DOI: 10.1016/j.apacoust.2016.09.015"]
   }
