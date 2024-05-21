@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Playground
+message: >-
+  If you use this software, please cite both the article and the software
+  itself using the metadata from this file.
+type: software
+authors:
+  - given-names: "Adam"
+    family-names: "Kujawski"
+    affiliation: "Department of Engineering Acoustics, TU Berlin"
+identifiers:
+  - description: "version 1.0"
+    type: "doi"
+    value: "10.5281/zenodo.11234419"
+repository-code: "https://github.com/adku1173/gh_actions_playground"
+version: "1.0"
+date-released: "2024-05-21"
+
